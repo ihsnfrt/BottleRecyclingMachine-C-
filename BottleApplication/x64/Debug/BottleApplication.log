@@ -1,0 +1,3 @@
+﻿  Sensor.cpp
+C:\Users\ihsan\Desktop\Projects\VisiualSamples\BottleApp\BottleApplication\BottleApplication\Sensor.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BottleApplication.vcxproj -> C:\Users\ihsan\Desktop\Projects\VisiualSamples\BottleApp\BottleApplication\x64\Debug\BottleApplication.exe
